@@ -1,0 +1,20 @@
+
+# Local databases — keep the SQL schemas and seed scripts in Git
+database/*.sqlite
+database/*.sqlite3
+database/*.db
+database/*.sqlite-journal
+
+# Local configuration and secrets
+src/config.local.php
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
