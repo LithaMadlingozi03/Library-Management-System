@@ -144,7 +144,6 @@ tests/                   Automated test suite
 screenshots/              Visual previews for the README
 .github/workflows/        GitHub Actions test workflow
 README.md                 Project overview and setup guide
-IMPROVEMENTS.md            Development/change notes
 ```
 
 Page names follow the original college project where practical. `index.php` is the student login; other main pages include `user_dashboard.php`, `my_books.php`, `admin_dashboard.php`, `manage_books.php`, `manage_users.php`, `admin_view_issued_books.php` and `issue_book.php`.
